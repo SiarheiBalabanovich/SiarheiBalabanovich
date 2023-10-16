@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=181717)
-![CodePen](https://img.shields.io/badge/-CodePen-090909?style=for-the-badge&logo=CodePen&logoColor=000000)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+![CodePen](https://img.shields.io/badge/-CodePen-090909?style=for-the-badge&logo=CodePen&logoColor=FFFFFF)
 
 

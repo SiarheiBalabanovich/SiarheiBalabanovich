@@ -30,5 +30,8 @@ Here are some ideas to get you started:
 
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/siarheibal)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=0866FF)](https://www.facebook.com/profile.php?id=100006404147827)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/siarheibal)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/siarheibal)
 
 

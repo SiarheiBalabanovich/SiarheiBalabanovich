@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://www.t.me/siarheibal)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiarheiBalabanovich&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiarheiBalabanovich&show_icons=true&theme=tokyonight)
 
 
 

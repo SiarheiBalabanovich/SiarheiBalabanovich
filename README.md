@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 ![CodePen](https://img.shields.io/badge/-CodePen-090909?style=for-the-badge&logo=CodePen&logoColor=FFFFFF)
 
 ### Follow Me
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/siarheibal/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/siarheibal)
 
 

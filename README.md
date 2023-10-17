@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm a junior frontend developer
 
-<!--
-**SiarheiBalabanovich/SiarheiBalabanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/SiarheiBalabanovich/SiarheiBalabanovich/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

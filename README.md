@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a junior frontend developer
 
-<img src="https://github.com/SiarheiBalabanovich/SiarheiBalabanovich/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+<img src="https://github.com/SiarheiBalabanovich/SiarheiBalabanovich/blob/master/assets/my profile.png" alt="My Profile" width="180"/>
 
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a frontend developer 🧑‍💻
-### 🔍 Looking for a new job as a remotely or hybrid in Poland, Portugal, World 🌎
-### ✅ Website development, responsive design, working with Git, Github, Figma, VSCode. Proficiency in HTML5, CSS3, Bootstrap, JavaScript, React, Gulp.
+### 🔍 Looking for a job as a remotely or hybrid in Poland, Portugal, World 🌎
+### ✅ Website development, responsive web design, working with Git, Github, Figma, VSCode. Proficiency in HTML5, CSS3, Bootstrap, JavaScript, React, Gulp, Wordpress (Woocommerce)
 
 ![my profile](https://github.com/SiarheiBalabanovich/SiarheiBalabanovich/assets/111513035/6d9fa30d-3f47-4134-a113-65443cf78a28)
 

@@ -10,10 +10,11 @@
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
+![Shopify](https://img.shields.io/badge/-Shopify-090909?style=for-the-badge&logo=Shopify&logoColor=F7DF1E)
 
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)

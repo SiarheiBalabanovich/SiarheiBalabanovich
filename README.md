@@ -30,7 +30,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://www.t.me/siarheibal)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiarheiBalabanovich&show_icons=true&theme=tokyonight)
-
-
-
-

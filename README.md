@@ -17,7 +17,7 @@
 ![Shopify](https://img.shields.io/badge/-Shopify-090909?style=for-the-badge&logo=Shopify&logoColor=96BF48)
 
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=A259FF)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![CodePen](https://img.shields.io/badge/-CodePen-090909?style=for-the-badge&logo=CodePen&logoColor=FFFFFF)
